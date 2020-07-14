@@ -1,0 +1,10 @@
+p.error-msg{
+    color: red;
+    font-size: 16px;
+    font-weight: 700;
+}
+p.success-msg{
+    color: green;
+    font-size: 16px;
+    font-weight: 700;
+}
