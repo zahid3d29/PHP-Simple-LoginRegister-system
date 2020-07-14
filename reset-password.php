@@ -1,7 +1,6 @@
 <?php include("header.php"); ?>
 
 
-
   <!-- Section page main -->
   <div class="container">
     <div class="row">
@@ -25,8 +24,6 @@
       </div>
     </div> <!-- Row End -->
   </div> <!-- Container End -->
-
-  
 
 
 <?php include("footer.php"); ?>
